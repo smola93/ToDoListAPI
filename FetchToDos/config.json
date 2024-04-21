@@ -1,0 +1,4 @@
+﻿{
+  "BaseUrl": "https://localhost:7067",
+  "JsonFilePath": "C://Test//ToDoItemsCurrentSnapshot.json"
+}
